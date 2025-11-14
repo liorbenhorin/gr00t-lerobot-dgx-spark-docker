@@ -24,12 +24,12 @@ Compiled binares for torch via [https://pypi.jetson-ai-lab.io/sbsa/cu130](https:
 
 ### Instructions
 
-On your DGX Spark
+On your DGX Spark, run:
 
-Note: First time will take ~45m to build due to `flash-attn`, so grab a huge coffee ☕
 ```bash
-git clone <this repo>
-cd <this repo>
-./start
+git clone https://github.com/liorbenhorin/gr00t-lerobot-dgx-spark-docker
+cd gr00t-lerobot-dgx-spark-docker
+./start.sh
 ```
+Note: First time will take ~45m to build due to `flash-attn`, so grab a huge coffee ☕
 
