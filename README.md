@@ -2,6 +2,8 @@
 
 The Dockerfile in this repo will build an image ready to train/inference gr00t via lerobot, on NVIDIA DGX Spark 🚀
 
+![](dgx-spark-s.jpg)
+
 ### lerobot[gr00t]
 
 This dockerfile will allow you to use the `lerobot[gr00t]` model.
